@@ -1,5 +1,5 @@
 ### Mustafa Buyukdereli 😄
 
-AI, AR and Web3
+AI, AR and Web3...
 
-Python, JavaScript, C#, Solidity
+I like Python, JavaScript, C#, Solidity and Clarity.
