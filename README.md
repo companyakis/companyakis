@@ -1,3 +1,3 @@
-### Mustafa Buyukdereli 😄👋
+### Mustafa Buyukdereli 😄
 
 
