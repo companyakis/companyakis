@@ -5,7 +5,7 @@
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
-TikTok ? Whay not...
+TikTok?..
 
 <!-- To Link your profile to the media buttons -->
 
@@ -13,7 +13,6 @@ TikTok ? Whay not...
 [2]: https://www.instagram.com/ai.ar.webthree
 [3]: https://www.twitter.com/aiarweb3
 [4]: https://www.linkedin.com/in/mustafabuyukdereli
-TikTok ? Whay not...
 
 
 
