@@ -2,4 +2,4 @@
 
 AI, AR and Web3...
 
-I like Python, JavaScript, C#, Solidity and Clarity.
+I like Python, JavaScript, C#, Dart, Solidity and Clarity.
