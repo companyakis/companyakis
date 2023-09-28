@@ -1,7 +1,5 @@
 ### Mustafa Buyukdereli 😄
 
-AI, AR and Web3...
-
 I like Python, JavaScript, Dart, Solidity and Haskell... And I should love Move?
 
 Once upon a time, I was a bank auditor. 
