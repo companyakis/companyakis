@@ -1,6 +1,6 @@
 ### Mustafa Buyukdereli 😄
 
-I like Python, JavaScript, Dart, Solidity and Haskell... And I should love Move?
+I like Python, JavaScript, Dart, Solidity and Haskell... And I should love Rust&Move?
 
 Once upon a time, I was a bank auditor. 
 
