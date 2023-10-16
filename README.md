@@ -1,6 +1,6 @@
 ### Mustafa Buyukdereli 😄
 
-I like Python, JavaScript, Solidity and Haskell... And I should love Rust&Move... And Dart (When?..)?
+I like Python, JavaScript, Solidity and Haskell... And and Mojo!.. Mojo? Rust? No:( I know, Rust is a strong soldier, but I think Mojo will be game-changer.
 
 Once upon a time, I was a bank auditor. 
 
