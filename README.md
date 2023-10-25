@@ -1,6 +1,8 @@
 ### Mustafa Buyukdereli 😄
 
-I like Python, JavaScript, Solidity and Haskell... And and Mojo and Move!.. But when:)
+I like Python, JavaScript, Solidity and Dart... 
+
+And Haskell and Mojo and Move!.. But when:)
 
 Once upon a time, I was a bank auditor. 
 
