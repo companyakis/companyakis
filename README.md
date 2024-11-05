@@ -8,4 +8,3 @@ I'm not a computer engineer! But I believe I am the person who can build a bridg
 
 I'll do my best!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=companyakis"/>
